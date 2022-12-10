@@ -1,3 +1,4 @@
 # ADM-HW4
 
-## twenty_parameters exceeds the 100mb so put into bin https://lenatestbucket.s3.amazonaws.com/twenty_params.csv
+to be deleted, once confirmed: aq1.ipynb, clustering.ipynb, ex2.ipynb
+before final push: csvs
