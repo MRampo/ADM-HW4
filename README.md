@@ -1,6 +1,6 @@
 # ADM-HW4 Getting to know your customers
 
-This repository contains our answers to the exercises published on this [link](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_4) as part of the assignments in the course Algortihmic Methods of Data Mining. The goal is to investigate customers bank transaction data from a [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation) by implementing an LSH algorithm and Kmeans clustering. 
+This repository contains our answers to the exercises published on this [link](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_4) as part of the assignments in the course Algorithmic Methods of Data Mining. The goal is to investigate customers bank transactions data from a [Kaggle Dataset](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation) by implementing an LSH algorithm and kmeans clustering. 
 
 The repository contains
 * `README.md`
